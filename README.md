@@ -2,7 +2,7 @@
 
 1st open my folder in your text editer eg-VS Code
 2nd npn install in this project
-3rd in otpveriexpressapi/backend create one .env file
+3rd in otpveriexpressapi/backend write following api key
 
 <!-- in .env file -->
 
